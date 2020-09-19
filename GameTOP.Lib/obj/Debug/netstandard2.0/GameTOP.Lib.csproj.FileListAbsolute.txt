@@ -1,0 +1,12 @@
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csprojAssemblyReference.cache
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CoreCompileInputs.cache
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfoInputs.cache
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.AssemblyInfo.cs
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.deps.json
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.dll
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Lib.pdb
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.dll
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\bin\Debug\netstandard2.0\GameTOP.Interface.pdb
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.csproj.CopyComplete
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.dll
+C:\Users\eslei\OneDrive\Documentos\DEV\estudo.net\EST_01\GameTOP.Lib\obj\Debug\netstandard2.0\GameTOP.Lib.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaksKqDHVqx4+jyKhvP+KnISd9T2Yu4Xf+8c0Bd9DTV4Diqxx84ROpaahFACmEC3SWOG5yUI9qJVzjtMcvtqfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eslei\\OneDrive\\Documentos\\DEV\\estudo.net\\EST_01\\GameTOP.Interface\\GameTOP.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eslei\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eslei\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
